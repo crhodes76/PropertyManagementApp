@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\charl\\source\\repos\\PropertyManagementApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28A17D6F-0A3D-406E-9DDF-8806A9096530}|PropertyManagementApplication\\PropertyManagementApplication.csproj|c:\\users\\charl\\source\\repos\\propertymanagementapplication\\propertymanagementapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A17D6F-0A3D-406E-9DDF-8806A9096530}|PropertyManagementApplication\\PropertyManagementApplication.csproj|solutionrelative:propertymanagementapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\source\\repos\\PropertyManagementApplication\\PropertyManagementApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PropertyManagementApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\charl\\source\\repos\\PropertyManagementApplication\\PropertyManagementApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PropertyManagementApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T15:23:46.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
